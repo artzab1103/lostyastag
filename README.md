@@ -7,5 +7,5 @@
 нету
 
 ## Прямые ссылки (Скачать)
-- (Датапак)[https://github.com/artzab1103/lostyastag/raw/main/direct_link/datapack.zip]
-- (РесурсПак)[https://github.com/artzab1103/lostyastag/raw/main/direct_link/lostyas_tag_resources.zip]
+- [Датапак](https://github.com/artzab1103/lostyastag/raw/main/direct_link/datapack.zip)
+- [РесурсПак](https://github.com/artzab1103/lostyastag/raw/main/direct_link/lostyas_tag_resources.zip)
