@@ -1,0 +1,65 @@
+{
+  "container.crafting": "",
+  
+  "title.outside_map": "You were outside of the map!",
+  "title.in_blocks": "You were in blocks!",
+  
+  "ability.item": "Ability",
+  "ability.item.using": "Ability",
+  "ability.item.cd": "Ability",
+  "ability.item.no_ability": "No ability!",
+  "ability.item.blocked": "Ability's blocked!",
+  "ability.item.wrong": "Something went wrong...",
+  
+  "pearl": "Pearl",
+  "pearl.cd": "Pearl",
+  "pearl.blocked": "Pearl's blocked!",
+
+  "tag.item": "You're tagged!",
+  
+  "tag.title.new_tagged": " is now tagged!",
+  "tag.title.you_tagged": "You're tagged!",
+  "tag.subtitle.you": "you",
+  "tag.subtitle.tag_by1": "because ",
+  "tag.subtitle.tag_by2": " said so",
+  
+  "effect.glow": "You're glowing!",
+  "effect.invis": "You're invisible!",
+  
+  "playtime.near_tagger": "ɴᴇᴀʀ ᴀ ᴛᴀɢɢᴇʀ",
+  "playtime.run_away": "ʀᴀɴ ᴀᴡᴀʏ",
+  
+  "menu.online": "online: ",
+  "menu.play": "play",
+  "menu.play.hover": "let's play already!",
+  "menu.play.hover.tagged": "⚠ when you left, you were tagged. nothing changed since then, y'know?",
+  "menu.how_to_play": "what's this mess?",
+  "menu.how_to_play.hover": "lemme explain everything",
+  "menu.settings": "set things",
+  "menu.settings.hover": "settings dont work cry about it",
+  "menu.testing_only": "this button won't be in release; it's exclusive to testing phase\nalso it requires op to be used",
+  "menu.testing.random_tagger": "tag a random person",
+  "menu.testing.random_tagger.hover": "choose a person to run for you\n[chooses from anyone who's not afk]",
+  "menu.testing.clear_taggers": "clear taggers",
+  "menu.testing.clear_taggers.hover": "no taggers allowed",
+  "menu.testing.reset_points": "reset points",
+  "menu.testing.reset_points.hover": "set everyone's playtime to 0",
+  "menu.testing.change_role.become_tagger": "become tagger",
+  "menu.testing.change_role.become_tagger.hover": "if ya want you can become a tagger",
+  "menu.testing.change_role.become_runner": "become runner",
+  "menu.testing.change_role.become_runner.hover": "if ya want you can stop being a tagger",
+  "menu.testing.reload":"/reload",
+  "menu.testing.reload.hover":"reload the datapack",
+  
+  "no_save_position.notif": "⚠ Your position's not being saved! ⚠",
+  
+  "safezone.command.enable": "⚠ Safezones are on",
+  "safezone.command.disable": "⚠ Safezones are off",
+  "safezone.command.title_enable": "⚠ Titles about safezones are on",
+  "safezone.command.title_disable": "⚠ Titles about safezones are off",
+  "safezone.entered.title": "You entered a safezone",
+  "safezone.entered.subtitle": "Time to rest!",
+  "safezone.left.title": "You left the safezone",
+  "safezone.left.subtitle": "Good luck!",
+  "safezone.notif": "⭐ You're in a safezone ⭐"
+}

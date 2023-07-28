@@ -1,0 +1,66 @@
+{
+  "container.crafting": "",
+  
+  "title.outside_map": "Ты оказался за картой!",
+  "title.in_blocks": "Ты был в блоках!",
+  
+  "ability.item": "Способность",
+  "ability.item.using": "Способность",
+  "ability.item.cd": "Способность",
+  "ability.item.no_ability": "Нет способности!",
+  "ability.item.blocked": "Способность заблокирована!",
+  "ability.item.wrong": "Что-то пошло не так...",
+  
+  "pearl": "Эндер-пёрл",
+  "pearl.cd": "Эндер-пёрл",
+  "pearl.blocked": "Пёрл заблокирован!",
+
+  "tag.item": "Ты вода!",
+  
+  "tag.title.new_tagged": " теперь вода!",
+  "tag.title.you_tagged": "Ты вода!",
+  "tag.subtitle.you": "ты",
+  "tag.subtitle.tag_by1": "потому что ",
+  "tag.subtitle.tag_by2": " так сказал",
+  
+  "effect.glow": "Ты подсвечиваешься!",
+  "effect.invis": "Ты невидимый!",
+  
+  "playtime.near_tagger": "ʙᴏзлᴇ ʙᴏды",
+  "playtime.run_away": "пᴏбᴇг",
+  
+  "menu.online": "в сети: ",
+  "menu.play": "играть",
+  "menu.play.hover": "погнали играть уже!",
+  "menu.play.hover.tagged": "⚠ когда ты ливал, ты был водой. с тех пор ничего не изменилось",
+  "menu.how_to_play": "а как какать?",
+  "menu.how_to_play.hover": "ща ответим на все твои вопросы",
+  "menu.settings": "на стройку",
+  "menu.settings.hover": "настроечки пока не работают так что иди поплачь",
+  "menu.testing_only": "этой кнопки не будет на релизе, она эксклюзивна к тестингу\nтак же она требует опки для работы",
+  "menu.testing.random_tagger": "сделать рандома водой",
+  "menu.testing.random_tagger.hover": "выбрать рандомного воду\n[выбирает из всех кто не афк]",
+  "menu.testing.clear_taggers": "убрать всех вод",
+  "menu.testing.clear_taggers.hover": "сделать всех убегающими",
+  "menu.testing.reset_points": "ресет плейтайма",
+  "menu.testing.reset_points.hover": "поставь всем в сети 0 очков",
+  "menu.testing.change_role.become_tagger": "стать водой",
+  "menu.testing.change_role.become_tagger.hover": "стань водой если желаешь",
+  "menu.testing.change_role.become_runner": "стать убегающим",
+  "menu.testing.change_role.become_runner.hover": "перестань быть водой если желаешь",
+  "menu.testing.random_tagger.hover": "выбрать рандомного воду\n[выбирает из всех кто не афк]",
+  "menu.testing.reload":"/reload",
+  "menu.testing.reload.hover":"перезагрузить датапак",
+  
+  "no_save_position.notif": "⚠ Твоя позиция не сохраняется! ⚠",
+  
+  "safezone.command.enable": "⚠ Сейфзоны включены",
+  "safezone.command.disable": "⚠ Сейфзоны выключены",
+  "safezone.command.title_enable": "⚠ Надписи на экране про сейфзоны включены",
+  "safezone.command.title_disable": "⚠ Надписи на экране про сейфзоны выключены",
+  "safezone.entered.title": "Ты вошёл в сейфзону",
+  "safezone.entered.subtitle": "Время отдохнуть!",
+  "safezone.left.title": "Ты покинул сейфзону",
+  "safezone.left.subtitle": "Удачи!",
+  "safezone.notif": "⭐ Ты в сейфзоне ⭐"
+}

@@ -1,0 +1,65 @@
+{
+  "container.crafting": "",
+  
+  "title.outside_map": "Ти опинився за картою!",
+  "title.in_blocks": "Ти був у блоках!",
+  
+  "ability.item": "Здатність",
+  "ability.item.using": "Здатність",
+  "ability.item.cd": "Здатність",
+  "ability.item.no_ability": "Нема здатності!",
+  "ability.item.blocked": "Здатність заблокована!",
+  "ability.item.wrong": "Щось пішло не так...",
+  
+  "pearl": "Перлина енду",
+  "pearl.cd": "Перлина енду",
+  "pearl.blocked": "Перлина заблокована!",
+
+  "tag.item": "Ти кеч!",
+  
+  "tag.title.new_tagged": " тепер кеч!",
+  "tag.title.you_tagged": "Ти кеч!",
+  "tag.subtitle.you": "ти",
+  "tag.subtitle.tag_by1": "тому що ",
+  "tag.subtitle.tag_by2": " так сказав",
+  
+  "effect.glow": "Ти підсвічуєшся!",
+  "effect.invis": "Ти невидимий!",
+  
+  "playtime.near_tagger": "бɪля ᴋᴇчᴀ",
+  "playtime.run_away": "ʙᴛᴇчᴀ",
+  
+  "menu.online": "в мережі: ",
+  "menu.play": "грати",
+  "menu.play.hover": "поїхали грати вже!",
+  "menu.play.hover.tagged": "⚠ коли ти лівав ти був кечом. з тих пір нічого не змінилось",
+  "menu.how_to_play": "це шо такє?",
+  "menu.how_to_play.hover": "зара все тобі поясним",
+  "menu.settings": "налаштування",
+  "menu.settings.hover": "налаштування не працюють, іди поплакай",
+  "menu.testing_only": "Цієї кнопки не буде в релізі, вона ексклюзивна до тестування\nвона також потребує опки для роботи",
+  "menu.testing.random_tagger": "зробити рандома кечом",
+  "menu.testing.random_tagger.hover": "вибрати рандомного кеча\n[вибирає з тих, хто не в афк]",
+  "menu.testing.clear_taggers": "прибрати всіх кечів",
+  "menu.testing.clear_taggers.hover": "зробити всіх втікачами",
+  "menu.testing.reset_points": "скинути бали",
+  "menu.testing.reset_points.hover": "встановити всім в мережі 0 балів",
+  "menu.testing.change_role.become_tagger": "стати кечом",
+  "menu.testing.change_role.become_tagger.hover": "стань кечом, якщо хочеш",
+  "menu.testing.change_role.become_runner": "стати втікачем",
+  "menu.testing.change_role.become_runner.hover": "перестань бути кечом, якщо хочеш",
+  "menu.testing.reload":"/reload",
+  "menu.testing.reload.hover":"перезавантажити датапак",
+  
+  "no_save_position.notif": "⚠ Твоя позиція не зберігаєтся! ⚠",
+  
+  "safezone.command.enable": "⚠ Сейфзони увімкнені",
+  "safezone.command.disable": "⚠ Сейфзони вимкнені",
+  "safezone.command.title_enable": "⚠ Надписи на екрані про сейфзони увімкнені",
+  "safezone.command.title_disable": "⚠ Надписи на екрані про сейфзони вимкнені",
+  "safezone.entered.title": "Ти увійшов у сейфзону",
+  "safezone.entered.subtitle": "Час відпочити!",
+  "safezone.left.title": "Ти покинув сейфзону",
+  "safezone.left.subtitle": "Успіхів!",
+  "safezone.notif": "⭐ Ти у сейфзоні ⭐"
+}
