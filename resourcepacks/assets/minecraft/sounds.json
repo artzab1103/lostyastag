@@ -1,0 +1,40 @@
+{
+  "death": {
+    "sounds": [
+      "d.metal_pipe",
+      "d.jeb_no",
+      "d.oof",
+      "d.fortnite",
+      "d.anime_ahh",
+      "d.off_alert",
+      "d.vine_boom",
+      "d.reverb_fart",
+      "d.fart",
+      "d.mario",
+      "d.pacman",
+      "d.gtaV",
+      "d.gmod"
+    ]
+  },
+  "jump": {
+    "sounds": [
+      "j.normal",
+      "j.roblox"
+    ]
+  },
+  "safezone": {
+    "sounds": [
+      "safezone"
+    ]
+  },
+  "safezone_leave": {
+    "sounds": [
+      "safezone_leave"
+    ]
+  },
+  "menu": {
+    "sounds": [
+      "menu"
+    ]
+  }
+}
